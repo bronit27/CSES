@@ -1,5 +1,4 @@
 ### [Stick Lengths](https://cses.fi/problemset/task/1074)
-### [Code](https://cses.fi/paste/16cc9872f64bb65b513a80/)
 
 ```cpp
 #include<bits/stdc++.h>
