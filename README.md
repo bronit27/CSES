@@ -1,3 +1,3 @@
 ### [CSES](https://cses.fi/problemset/)
 
-Solutions of CSES Problem Set.
+My solutions for CSES Problem Set.
